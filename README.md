@@ -7,7 +7,6 @@
 |序号|内容|
 |--|--|
 |1|[github上传项目-图文教程](http://mp.weixin.qq.com/s?__biz=MzI1NjAxODkzMg==&mid=2572041501&idx=1&sn=6ed54a16c17c5947c04f6b594a4983c7&chksm=f6978d86c1e0049072dc9ad7257499178003a8a9fb53b3f5e9dda0c7045a689f1a9d6854d6be#rd)|
-|1|[github上传项目-图文教程](http://mp.weixin.qq.com/s?__biz=MzI1NjAxODkzMg==&mid=2572041501&idx=1&sn=6ed54a16c17c5947c04f6b594a4983c7&chksm=f6978d86c1e0049072dc9ad7257499178003a8a9fb53b3f5e9dda0c7045a689f1a9d6854d6be#rd)|
 |2|[星座运势-js源代码](http://mp.weixin.qq.com/s?__biz=MzI1NjAxODkzMg==&mid=2572041464&idx=1&sn=6bf9223f0a2d987a86ccadd5f51e7d25&chksm=f6978c63c1e0057598e593d24e522a72009b2d4ac77e06d0826317ede58f42e454c5b59460aa#rd)|
 |3|[Enable two-factor authentication (2FA)  -github解决方案](http://mp.weixin.qq.com/s?__biz=MzI1NjAxODkzMg==&mid=2572041457&idx=1&sn=a63cb6983c9f0a81bd41fc840315d509&chksm=f6978c6ac1e0057c187bd629a708a8fe980293fef84134cd16d2506ef9a1d70150ea60eb062a#rd)|
 |4|[免费api-实时天气](http://mp.weixin.qq.com/s?__biz=MzI1NjAxODkzMg==&mid=2572041436&idx=1&sn=7ab2ad77c25c3384790d1f89f1cccc2d&chksm=f6978c47c1e005515f9c9373167eb2370fb60104492f9592cdc749f2805263c4500f3f2f4632#rd)|
